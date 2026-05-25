@@ -4,7 +4,7 @@ Este repositorio contiene un conjunto de herramientas forenses diseñadas para e
 
 ## Herramientas Incluidas
 
-### 1. Conversor de Logs de Apache (`ConversorLogsApache/conversor.py`)
+### 1. Conversor de Logs de Apache (`ConversorLogsApache/conversorLogApache.py`)
 
 Esta herramienta permite convertir archivos de logs de Apache (formato combinado) a un formato CSV estructurado para facilitar su análisis en herramientas como Excel o bases de datos.
 
